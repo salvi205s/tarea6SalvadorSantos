@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Mostrando los datos del cliente</title>
+        <title>Datos del cliente</title>
     </head>
     <body>
         <!-- Se recogen los valores que envía el formulario mediante el objeto 	request y su método getParameter() -->
